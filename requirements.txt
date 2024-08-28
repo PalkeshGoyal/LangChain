@@ -3,3 +3,4 @@ langchain-core
 langchain_openai
 langchain_community
 tensorflow==2.16.1
+langchain-google-genai
